@@ -1,1 +1,2 @@
-Hie Welcomw to GIT
+Hie Welcome to GIT
+Why are we doing this?
